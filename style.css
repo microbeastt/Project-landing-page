@@ -1,0 +1,55 @@
+
+/* Main container for entire header*/
+.Top-header {
+    display: inline-flex;
+
+    background-color: #1F2937;
+    min-width: 105%;
+    margin-top: -12px;
+    margin-left: -9px;
+    margin-right: -72px;
+    padding-top: 15px;
+   
+    
+}
+/* Container for header logo top left*/
+.header-logo {
+    display: inline-flex;
+    flex: 1 1 0;
+    min-width: 50%;
+    color: White;
+    font-size: 24px;
+    padding-left: 150px;
+    font-weight: bold;
+}
+/*This container is for the headers top right links*/
+.link-container {
+    flex: 1 1 0;
+    min-width: fit-content;
+    display: inline-flex;
+    justify-content: end;
+    color: white;
+    font-size: 18px;
+    padding-right: 150px;
+}
+/* Header Links top right*/
+
+#link-one{
+    font-size: 18px;
+    color: white;
+    padding-right: 12px;
+}
+
+
+.Container-1 {
+    background-color: #1F2937;
+    display: inline-block;
+    
+    
+}
+.c1-boxleft {
+    display: block ;
+}
+.c1-boxright {
+    
+}
